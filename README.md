@@ -1,13 +1,27 @@
-# 🗺 Dalton Hendrix's Portfolio
+# 🗺 Dalton Hendrix's Data Analysis Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
+- [Technical Skills](#technical-skills)
 - [Customer Retention Analysis](#customer-retention-analysis)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
 - [Katie's Guides](#katies-guides)
+
+#Technical Skills
+
+- SQL
+- R
+- Python
+- Power BI
+- Excel
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Statistical Modeling
+- Dashboard Development
+- Data Visualization
 
 # Customer Retention Analysis
 
