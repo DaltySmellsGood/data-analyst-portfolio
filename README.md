@@ -11,19 +11,19 @@ This repository serves as a central hub for projects demonstrating my skills in 
 
 ***
 
-## 💾 Technical Skills
+## 💾Technical Skills
 
 | Programming & Querying | Visualization | Analytics | 
 |---|---|---|
 | SQL, R, and Python | Power BI and Excel | Data Cleaning, Exploratory Data Analysis (EDA), Statistical Modeling, and Customer Retention Analysis |
 
-## 📊 Projects
+## 📊Projects
 
 | Project | Business Problem | Key Results | Tools | 
 |---|---|---|---|
 | Customer Retention Analysis 🔄 | Analyzed customer retention and purchasing behavior using cohort analysis. | Customer retention declined sharply after acquisition, the highest=spending customer quartile contributed ~80% of total revenue, and monthly revenue nearly doubled from July and November 2011.  | R, SQL, and Power BI |
 
-## 🚀 Currently Learning 
+## 🚀Currently Learning 
 
 - Power BI Dashboard Design
 - Excel for Data Analysis
