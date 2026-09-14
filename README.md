@@ -9,7 +9,7 @@ This repository serves as a central hub for projects demonstrating my skills in 
 - [Projects](#projects)
 - [Currently Learning](#currently-learning)
 
-  ***
+***
 
 ## 💾 Technical Skills
 
