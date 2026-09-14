@@ -21,7 +21,7 @@ This repository serves as a central hub for projects demonstrating my skills in 
 
 | Project | Business Problem | Key Results | Tools | 
 |---|---|---|---|
-| Customer Retention Analysis 🔄 | Analyzed customer retention and purchasing behavior using cohort analysis. | Customer retention declined sharply after acquisition, the highest=spending customer quartile contributed ~80% of total revenue, and monthly revenue nearly doubled from July and November 2011.  | R, SQL, and Power BI |
+| Customer Retention Analysis 🔄 | Analyzed customer retention and purchasing behavior using cohort analysis. | Customer retention declined sharply after acquisition, the highest-spending customer quartile contributed ~80% of total revenue, and monthly revenue nearly doubled from July and November 2011.  | R, SQL, and Power BI |
 
 ## 🚀Currently Learning 
 
