@@ -3,13 +3,13 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Customer Retention Analysis](#data-engineering)
+- [Customer Retention Analysis](#customer-retention-analysis)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
 - [Katie's Guides](#katies-guides)
 
-# Data Engineering
+# Customer Retention Analysis
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
