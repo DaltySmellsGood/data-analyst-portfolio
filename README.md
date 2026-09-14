@@ -1,8 +1,8 @@
-# 🗺 Dalton Hendrix's Data Analysis Portfolio
+# 🗺 Dalton Hendrix's Data Analyst Portfolio
 
 Welcome to my Data Analyst Portfolio!
 
-This repository serves as a central hub for projects demonstrating skills in data analysis, statistical modeling, data visualization, and business intelligence. Each project focuses on solving business problems and communicating actionable insights through data.
+This repository serves as a central hub for projects demonstrating my skills in data analysis, statistical modeling, data visualization, and business intelligence. Each project focuses on solving business problems and communicating actionable insights through data-driven decision making.
 
 ## 📚 Table of Contents
 - [Technical Skills](#technical-skills)
@@ -13,7 +13,7 @@ This repository serves as a central hub for projects demonstrating skills in dat
 
 ## 💾 Technical Skills
 
-| Programing & Querying | Visualization | Analytics | 
+| Programming & Querying | Visualization | Analytics | 
 |---|---|---|
 | SQL, R, and Python | Power BI and Excel | Data Cleaning, Exploratory Data Analysis (EDA), Statistical Modeling, and Customer Retention Analysis |
 
@@ -21,7 +21,7 @@ This repository serves as a central hub for projects demonstrating skills in dat
 
 | Project | Business Problem | Key Results | Tools | 
 |---|---|---|---|
-| 🔄 Customer Retention Analysis | Analyzed customer retention and purchasing behavior using cohort analysis. | Customer retention declined to 20% after the first month of customer acquisition and steadily rose to 28% over a 12-month period, the top quartile of customers contributed ~80% of revenue, and monthly revenue nearly doubled from July to November of the same year.  | RStudio, SQL, and Power BI |
+| Customer Retention Analysis 🔄 | Analyzed customer retention and purchasing behavior using cohort analysis. | Customer retention declined sharply after acquisition, the highest=spending customer quartile contributed ~80% of total revenue, and monthly revenue nearly doubled from July and November 2011.  | R, SQL, and Power BI |
 
 ## 🚀 Currently Learning 
 
